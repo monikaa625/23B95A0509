@@ -1,1 +1,0 @@
-Hellogit config --global user.email "boddumonika781@gmail.com"
