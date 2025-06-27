@@ -1,0 +1,6 @@
+{"timestamp":"2025-06-27T07:06:51.545Z","level":"ERROR","message":"HTTP Error Response","requestId":"55ivgjprb","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
+{"timestamp":"2025-06-27T07:06:56.355Z","level":"ERROR","message":"HTTP Error Response","requestId":"43sj2q4lt","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
+{"timestamp":"2025-06-27T07:07:00.485Z","level":"ERROR","message":"HTTP Error Response","requestId":"y4ufog4bv","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
+{"timestamp":"2025-06-27T07:07:09.522Z","level":"ERROR","message":"HTTP Error Response","requestId":"2zuzdg3zq","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
+{"timestamp":"2025-06-27T07:07:09.732Z","level":"ERROR","message":"HTTP Error Response","requestId":"42a4hkm53","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
+{"timestamp":"2025-06-27T07:07:09.949Z","level":"ERROR","message":"HTTP Error Response","requestId":"lhqz1mi4d","statusCode":409,"response":{"success":false,"error":"Shortcode already exists"}}
